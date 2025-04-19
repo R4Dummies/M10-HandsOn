@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: fe1e75ad-5abf-4eea-9f38-da97b3fdae7f
+      url: 'https://rickywoznichak.quarto.pub/m10handson'

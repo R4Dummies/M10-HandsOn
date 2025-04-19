@@ -1,0 +1,45 @@
+---
+title: "Ricky Woznichak"
+subtitle: "Master's of Science Digital Marketing"
+image: profile.jpg
+about: 
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/R4Dummies
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rickywoznichak/
+      
+embed-resources: true
+---
+# Hello...
+I’m Ricky Woznichak, a passionate digital marketing professional and current M.S. candidate in Digital Marketing at Cal Poly Pomona. Prior to my stint as an actor, I cut my teeth as an Assistant Digital Media Planner at UM, crafting campaigns for clients like Sony Home Entertainment and IHOP. Along the way I also honed my storytelling and people skills as a substitute teacher and—true story—an awesome waiter. I’ve led SEO initiatives, mastered tools like Google Analytics and SEMrush, and built interactive R and Quarto dashboards that turn complex insights into clear action. When I’m not geeking out over forecasting models for my Productfolio.com thesis, you’ll find me strolling with my dog Jimmy — because great ideas often strike when you’re off screen.
+
+You can find my entire journey on Linkedin - Let's Connect! 
+
+## Education
+
+### Bachelor's of Science in Marketing Management
+
+-   California State Polytechnic University, Pomona \| California \| June 2010
+
+### Master's of Science in Digital Marketing
+
+-   California State Polytechnic University, Pomona \| California \| August 2025
+
+## Work Experience
+
+John Franklin Insurance \| Marketing Manager \| 2024-2025
+
+Los Angeles Unified School District \|Substitute Teacher & Special Education Teacher \| 2019—2024
+
+Mama Shelter, Esterel, Mixto \| Server + Banquet Server \|2013—2024
+
+Studio71 \| Sales Development Coordinator \| 2012—2013
+
+Universal McCann \| Assistant Digital Media Planner \|2011—2012
+
+Universal Music Group \| Digital Marketing Coordinator \| 2010—2011
+
